@@ -53,6 +53,7 @@ Climate change is one of the most pressing global issues of our time. This list 
 - **[CDP (Carbon Disclosure Project)](https://www.cdp.net/)** – Global disclosure system for managing environmental impacts.
 - **[350.org](https://350.org/)** – Grassroots movement for climate justice and clean energy.
 - **[Climate Action Tracker](https://climateactiontracker.org/)** – Tracks climate policies and pledges by country.
+- **[SolarXlist](https://solarxlist.org/)** – Global directory of solar, PV, and energy-storage companies searchable by country, city, and business role.
 
 ## Developer Tools & Libraries
 
